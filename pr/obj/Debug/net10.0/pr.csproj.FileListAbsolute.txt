@@ -1,0 +1,14 @@
+/Users/kainy/code/pr/bin/Debug/net10.0/pr
+/Users/kainy/code/pr/bin/Debug/net10.0/pr.deps.json
+/Users/kainy/code/pr/bin/Debug/net10.0/pr.runtimeconfig.json
+/Users/kainy/code/pr/bin/Debug/net10.0/pr.dll
+/Users/kainy/code/pr/bin/Debug/net10.0/pr.pdb
+/Users/kainy/code/pr/obj/Debug/net10.0/pr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainy/code/pr/obj/Debug/net10.0/pr.AssemblyInfoInputs.cache
+/Users/kainy/code/pr/obj/Debug/net10.0/pr.AssemblyInfo.cs
+/Users/kainy/code/pr/obj/Debug/net10.0/pr.csproj.CoreCompileInputs.cache
+/Users/kainy/code/pr/obj/Debug/net10.0/pr.dll
+/Users/kainy/code/pr/obj/Debug/net10.0/refint/pr.dll
+/Users/kainy/code/pr/obj/Debug/net10.0/pr.pdb
+/Users/kainy/code/pr/obj/Debug/net10.0/pr.genruntimeconfig.cache
+/Users/kainy/code/pr/obj/Debug/net10.0/ref/pr.dll
