@@ -1,0 +1,3 @@
+@model IReadOnlyList<Group>
+@{ ViewData["Title"] = "Учебные группы"; }
+<div class="section-heading"><div><span class="eyebrow">СТРУКТУРА ОБУЧЕНИЯ</span><h2>Учебные группы</h2></div><span class="muted">@Model.Count группы</span></div><div class="group-grid">@foreach(var g in Model){<article class="panel group-card"><div class="group-top"><span class="card-icon mint">▦</span><span class="tag">@g.Course курс</span></div><h3>@g.Name</h3><p>@g.Students.Count студентов</p><div class="student-chips">@foreach(var s in g.Students){<span title="@s.Name @s.Surname">@s.Name[..1]@s.Surname[..1]</span>}</div></article>}</div>

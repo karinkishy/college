@@ -1,0 +1,3 @@
+@model IReadOnlyList<Teacher>
+@{ ViewData["Title"] = "Преподаватели"; }
+<div class="section-heading"><div><span class="eyebrow">ПЕДАГОГИЧЕСКИЙ СОСТАВ</span><h2>Преподаватели</h2></div><span class="muted">@Model.Count специалистов</span></div><div class="people-grid">@foreach(var t in Model){<article class="person-card"><div class="avatar large">@t.Name[..1]@t.Surname[..1]</div><span class="tag">@t.Subject</span><h3>@t.Name @t.Surname</h3><p>@t.Age лет · стаж @t.Experience лет</p><div class="person-foot">ПРЕПОДАВАТЕЛЬ <span>↗</span></div></article>}</div>
