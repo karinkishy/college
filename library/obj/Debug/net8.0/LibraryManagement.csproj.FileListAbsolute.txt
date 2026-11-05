@@ -1,0 +1,15 @@
+/Users/kainy/code/college/library/bin/Debug/net8.0/LibraryManagement
+/Users/kainy/code/college/library/bin/Debug/net8.0/LibraryManagement.deps.json
+/Users/kainy/code/college/library/bin/Debug/net8.0/LibraryManagement.runtimeconfig.json
+/Users/kainy/code/college/library/bin/Debug/net8.0/LibraryManagement.dll
+/Users/kainy/code/college/library/bin/Debug/net8.0/LibraryManagement.pdb
+/Users/kainy/code/college/library/obj/Debug/net8.0/LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kainy/code/college/library/obj/Debug/net8.0/LibraryManagement.AssemblyInfoInputs.cache
+/Users/kainy/code/college/library/obj/Debug/net8.0/LibraryManagement.AssemblyInfo.cs
+/Users/kainy/code/college/library/obj/Debug/net8.0/LibraryManagement.csproj.CoreCompileInputs.cache
+/Users/kainy/code/college/library/obj/Debug/net8.0/LibraryManagement.sourcelink.json
+/Users/kainy/code/college/library/obj/Debug/net8.0/LibraryManagement.dll
+/Users/kainy/code/college/library/obj/Debug/net8.0/refint/LibraryManagement.dll
+/Users/kainy/code/college/library/obj/Debug/net8.0/LibraryManagement.pdb
+/Users/kainy/code/college/library/obj/Debug/net8.0/LibraryManagement.genruntimeconfig.cache
+/Users/kainy/code/college/library/obj/Debug/net8.0/ref/LibraryManagement.dll
